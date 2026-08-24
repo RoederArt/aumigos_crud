@@ -9,8 +9,10 @@
 <body>
 
 <header>
+<nav>
 <a href="public/cadastro_clientes.php">CADASTRO DE CLIENTES</a>
 <a href="public/cadastro_animais.php">CADASTRO DE ANIMAIS</a>
+</nav>
 </header>
 
 <main></main>
