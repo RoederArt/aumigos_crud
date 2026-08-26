@@ -41,10 +41,13 @@ mysqli_stmt_close($stmt);
 <form method="POST">
     <label for="nome">nome:</label>
     <input type="text" name="nome" required>
+    <br>
     <label for="email">email:</label>
     <input type="email" name="email" required>
+    <br>
     <label for="numero">numero:</label>
     <input type="number" name="numero" required>
+    <br>
     <button type="submit">cadastrar</button>
 </form>
 
